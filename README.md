@@ -1,8 +1,4 @@
- readme1
-# hello world!
+# hello world
 
 world
-=======
-# hello world!
-hello world
- master
+
